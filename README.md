@@ -4,7 +4,6 @@
 
 This repository is a small, reproducible Python research prototype for predicting short-horizon latency risk in a cloud-native payment API using synthetic observability data. It compares a transparent baseline model with a lightweight improved model and produces evaluation metrics and plots.
 
-The prototype is intentionally narrow. It is not a production monitoring platform, payment system, or general cloud-management solution.
 
 ## Research problem
 
